@@ -28,7 +28,6 @@ news_title
 news_p = slide_elem.find('div', class_='article_teaser_body').get_text()
 news_p
 
-
 # ## JPL Space Images Featured Image
 # Visit URL
 url = 'https://spaceimages-mars.com'
